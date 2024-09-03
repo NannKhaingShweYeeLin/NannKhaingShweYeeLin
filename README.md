@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nann Khaing Shwe Yee Lin</h1>
 <h3 align="center">A passionate frontend developer from Myanmar.</h3>
 
-- 🌱 I’m currently learning **ReactJS, NextJS**
+- 🌱 I’m currently learning **ReactJS, NextJS, Wordpress**
 
 - 👨‍💻 All of my projects are available at (https://nannkhaingshweyeelin-portfolio.vercel.app/)
 
